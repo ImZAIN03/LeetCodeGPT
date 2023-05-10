@@ -1,0 +1,19 @@
+.dark{
+    background-color: #1a1a1a;
+    color: #FFF;
+}
+.card{
+    background-color: #8a8a8a;
+    color: #FFF;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.input {
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 200px;
+    width: 80%;
+    display: block;
+}
