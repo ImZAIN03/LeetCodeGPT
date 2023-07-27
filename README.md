@@ -1,2 +1,2 @@
 # LeetCodeGPT
-This is a leetcode solution Generator made using HTML,CSS and JavaScript.
+This is a leetcode solution Generator made using HTML,CSS and JavaScript...
